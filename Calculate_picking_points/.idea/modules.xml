@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/yolov5目标框图像.iml" filepath="$PROJECT_DIR$/.idea/yolov5目标框图像.iml" />
+    </modules>
+  </component>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/yolov5目标框图像.iml" filepath="$PROJECT_DIR$/.idea/yolov5目标框图像.iml" />
+    </modules>
+  </component>
+>>>>>>> b201b31cc22f62ca79d4167c14e19308f24f3ead
+</project>

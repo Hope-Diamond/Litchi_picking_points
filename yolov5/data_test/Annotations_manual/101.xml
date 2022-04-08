@@ -1,0 +1,33 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>101.jpg</filename>
+    <size>
+        <width>600</width>
+        <height>420</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>litchi</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>184</xmin>
+            <ymin>107</ymin>
+            <xmax>349</xmax>
+            <ymax>362</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>stem</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>311</xmin>
+            <ymin>0</ymin>
+            <xmax>401</xmax>
+            <ymax>51</ymax>
+        </bndbox>
+    </object>
+</annotation>

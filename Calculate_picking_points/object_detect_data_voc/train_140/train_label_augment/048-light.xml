@@ -1,0 +1,44 @@
+<<<<<<< HEAD
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>048.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>427</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>litchi</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>209</xmin>
+            <ymin>85</ymin>
+            <xmax>463</xmax>
+            <ymax>348</ymax>
+        </bndbox>
+    </object>
+=======
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>048.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>427</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>litchi</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>209</xmin>
+            <ymin>85</ymin>
+            <xmax>463</xmax>
+            <ymax>348</ymax>
+        </bndbox>
+    </object>
+>>>>>>> b201b31cc22f62ca79d4167c14e19308f24f3ead
+</annotation>
